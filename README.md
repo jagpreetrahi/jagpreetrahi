@@ -1,9 +1,15 @@
 - 👋 Hi, I’m @jagpreetrahi
-- 👀 I’m interested in Backend Technology
-- 🌱 I’m currently learning Node JS and React JS
-- 💞️ I’m looking to collaborate on start ups and open source projects
+- 🌱 I’m currently pusuing B.E in computer science
+- #### 💡 What I Do:
+- **Full-Stack Development**: I love working with technologies like Node.js, Express.js, React, and databases like MySQL and MongoDB. My goal is to create seamless user experiences that make technology feel intuitive and accessible.
+- **Database Wizardry**: Whether it's PostgreSQL or Supabase, I enjoy organizing data in a way that makes it easy to access and analyze. Who knew database management could be so thrilling?
+- **AI & ML Explorer**: I'm diving into the world of Artificial Intelligence and Machine Learning, excited to learn how to build intelligent systems that can make life easier.
+- #### 🚀 My Tech Philosophy:
+I believe technology should empower people. My motto is: **"Code with purpose, build with passion."** I’m always eager to learn and experiment with new frameworks, languages, and tools that can enhance my skill set and help me create innovative solutions.
+- 💞️ I’m looking to be a 
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: 
+- ⚡ Fun fact: I can code in multiple languages, but my favorite is the one that helps me procrastinate on my assignments!
+  
 
 <!---
 jagpreetrahi/jagpreetrahi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
