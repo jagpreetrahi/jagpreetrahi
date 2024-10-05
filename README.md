@@ -2,7 +2,6 @@
 - 🌱 I’m currently pusuing B.E in computer science
 - #### 💡 What I Do:
 - **Full-Stack Development**: I love working with technologies like Node.js, Express.js, React, and databases like MySQL and MongoDB. My goal is to create seamless user experiences that make technology feel intuitive and accessible.
-- **Database Wizardry**: Whether it's PostgreSQL or Supabase, I enjoy organizing data in a way that makes it easy to access and analyze. Who knew database management could be so thrilling?
 - **AI & ML Explorer**: I'm diving into the world of Artificial Intelligence and Machine Learning, excited to learn how to build intelligent systems that can make life easier.
 - #### 🚀 My Tech Philosophy:
 I believe technology should empower people. My motto is: **"Code with purpose, build with passion."** I’m always eager to learn and experiment with new frameworks, languages, and tools that can enhance my skill set and help me create innovative solutions.
