@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jagpreet Singh Rahi , am a developer
-- 🌱 I’m currently pusuing B.E in computer science
+- 🌱 I’m currently pursuing B.E in computer science
 - #### 💡 What I Do:
 - **Full-Stack Development**: I love working with technologies like Node.js, Express.js, React, and databases like MySQL and MongoDB. My goal is to create seamless user experiences that make technology feel intuitive and accessible.
 - **AI & ML Explorer**: I'm diving into the world of Artificial Intelligence and Machine Learning, excited to learn how to build intelligent systems that can make life easier.
