@@ -33,7 +33,8 @@ You can click the Preview link to take a look at your changes.
 ![Jagpreet's GitHub stats](https://github-readme-stats.vercel.app/api?username=jagpreetrahi&show_icons=true&theme=tokyonight)
 
 ### Contribution Repo Stats
-![Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=jagpreetrahi&repo=website)
+![Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=jagpreetrahi&repo=website&show_owner=true)
+
 
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jagpreetrahi&theme=tokyonight&hide_border=true)
