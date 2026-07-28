@@ -1,14 +1,13 @@
 - 👋 Hi, I’m Jagpreet Singh Rahi , am a developer and open source contributor.
-- 🌱 I’m currently pursuing B.E in computer science
+- 🌱 I’m graduate with  B.E in computer science
 - #### 💡 What I Do:
 - **Full-Stack Development**: I love working with technologies like Node.js, Express.js, React,Next.js and databases like MySQL, PostgreSQL and MongoDB. My goal is to create seamless user experiences that make technology feel intuitive and accessible.
-- **AI & ML Explorer**: I'm diving into the world of Artificial Intelligence and Machine Learning, excited to learn how to build intelligent systems that can make life easier.
+- **Applied AI**: I'm diving into the world of Artificial Intelligence, excited to learn how to build intelligent systems that can make life easier.
 - #### 🚀 My Tech Philosophy:
-I believe technology should empower people. My motto is: **"Code with purpose, build with passion."** I’m always eager to learn and experiment with new frameworks, languages, and tools that can enhance my skill set and help me create innovative solutions.
+I believe technology should empower people. I’m always eager to learn and experiment with new frameworks, languages, and tools that can enhance my skill set and help me create innovative solutions.
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I can code in multiple languages, but my favorite is the one that helps me procrastinate on my assignments!
-  
 
+  
 <!---
 jagpreetrahi/jagpreetrahi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
