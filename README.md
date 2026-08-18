@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Jagpreet Singh Rahi , am a developer and open source contributor.
-- 🌱 I’m graduate with  B.E in computer science 
+- 👋 Hi, I’m Jagpreet Singh Rahi. I am a Software Engineer. I build applications by identifying the problems. 
+- 🌱 I’m graduate with  B.E in computer science with 8.42 CGPA.
 - #### 💡 What I Do:
 - **Backend Development**: I enjoy building backend application that are scalable by using technologies like Node.js, Express.js, Python, Javascript and databases like PostgreSQL and MongoDB. 
 - **Applied AI**: I'm diving into the world of Artificial Intelligence, excited to learn how to build intelligent systems that can make life easier.
